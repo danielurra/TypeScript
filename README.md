@@ -53,4 +53,11 @@ console.log(add(5, 2));
 npm install -g typescript
 ```
 ![install-typescript-using-node js-npm](https://github.com/danielurra/TypeScript/assets/51704179/7b9384df-f5a1-4dac-8f72-6b15bc35a323)<br>
-
+## Powershell set execution policy - TypeScript version
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+```
+![tsc-version](https://github.com/danielurra/TypeScript/assets/51704179/57db7aaa-6827-408c-9187-c9ea9c4c7a28)<br>
+```powershell
+tsc -v
+```
