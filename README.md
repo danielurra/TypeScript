@@ -23,6 +23,7 @@ A program that uses the type checker to tell editors such as VS Code how to prov
 https://www.typescriptlang.org/play?<br>
 ![typescript-playground](https://github.com/danielurra/TypeScript/assets/51704179/7a57be95-8f7a-496f-8290-3d2e4b0470fc)<br>
 ## Addition
+Typescript code:<br>
 ```typescript
 var x:number=10;
 console.log(x);
@@ -32,4 +33,13 @@ return num1+num2;
 }
 console.log(add(5,2));
 ```
-
+JavaScript code:<br>
+```javascript
+"use strict";
+var x = 10;
+console.log(x);
+function add(num1, num2) {
+    return num1 + num2;
+}
+console.log(add(5, 2));
+```
