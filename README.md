@@ -1,5 +1,5 @@
 # TypeScript
-![typescript](https://github.com/danielurra/TypeScript/assets/51704179/f34e4b73-8bc3-4bd9-b1e1-c943a81c0f7b)
+![typescript](https://github.com/danielurra/TypeScript/assets/51704179/f34e4b73-8bc3-4bd9-b1e1-c943a81c0f7b)<br>
 In a syntactic sense TypeScript is a superset of JavaScript, so long as your JavaScript program doesn’t have any syntax errors then it is also a TypeScript program.<br>
 It’s quite likely that TypeScript’s type checker will flag some issues with your code, TypeScript will still parse your code and emit JavaScript.<br>
 TypeScript is a superset of JavaScript, this means that any valid JavaScript is automatically syntactically valid TypeScript.<br>
