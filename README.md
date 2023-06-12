@@ -22,3 +22,14 @@ A program that uses the type checker to tell editors such as VS Code how to prov
 ## TypeScript Playground website
 https://www.typescriptlang.org/play?<br>
 ![typescript-playground](https://github.com/danielurra/TypeScript/assets/51704179/7a57be95-8f7a-496f-8290-3d2e4b0470fc)<br>
+## Addition
+```typescript
+var x:number=10;
+console.log(x);
+
+function add(num1:number,num2:number):number{
+return num1+num2;
+}
+console.log(add(5,2));
+```
+
