@@ -19,3 +19,6 @@ A program that runs the type checker, reports any issues, then outputs the equiv
 
 4) Language service<br>
 A program that uses the type checker to tell editors such as VS Code how to provide helpful utilities to developers<br>
+## TypeScript Playground website
+https://www.typescriptlang.org/play?<br>
+![typescript-playground](https://github.com/danielurra/TypeScript/assets/51704179/7a57be95-8f7a-496f-8290-3d2e4b0470fc)<br>
