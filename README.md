@@ -48,3 +48,6 @@ console.log(add(5, 2));
 [LOG]: 10
 [LOG]: 7
 ```
+## Installing TypeScript in Windows 10 using node.js package manager npm
+![install-typescript-using-node js-npm](https://github.com/danielurra/TypeScript/assets/51704179/7b9384df-f5a1-4dac-8f72-6b15bc35a323)<br>
+
