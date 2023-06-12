@@ -44,5 +44,5 @@ function add(num1, num2) {
 console.log(add(5, 2));
 ```
 Console log:<br>
-[LOG]: 10 
-[LOG]: 7 
+[LOG]: 10 <br>
+[LOG]: 7 <br>
